@@ -16,6 +16,8 @@ Building
 
 Binary will be in `build/src`.
 
+Note: it is recommended to install `haveged` to speed up the process.
+
 Utilities
 ---------
 
